@@ -4,6 +4,8 @@
 Coursera Course Project README file on Tidy Data for the Johns Hopkins Bloomberg School of
 Public Health course, "Getting and Cleaning Data"
 
+PLEASE NOTE:  In reviewing the project, I discovered I misread Part 5 and SUMMED the subject-activity sensor measurement data rather than computed the MEAN, as requested.   My mistake and oversight.   Just an explanation as to why the numbers might not agree with a computed mean.  
+
 ### 1: Project Data References
 
 The data used in this project is from the Human Activity Recognition Using Smartphones Dataset, 
@@ -11,9 +13,9 @@ Version 1.0 developed and/or documented by:
 
 Jorge L. Reyes-Ortiz(1,2), Davide Anguita(1), Alessandro Ghio(1), Luca Oneto(1) and Xavier Parra(2)
 1 - Smartlab - Non-Linear Complex Systems Laboratory
-DITEN - Università  degli Studi di Genova, Genoa (I-16145), Italy. 
+DITEN - UniversitÃ   degli Studi di Genova, Genoa (I-16145), Italy. 
 2 - CETpD - Technical Research Centre for Dependency Care and Autonomous Living
-Universitat Politècnica de Catalunya (BarcelonaTech). Vilanova i la Geltrú (08800), Spain
+Universitat PolitÃ¨cnica de Catalunya (BarcelonaTech). Vilanova i la GeltrÃº (08800), Spain
 activityrecognition '@' smartlab.ws 
 
 For the interested reader, further descriptions are available at the site where the data was obtained:
